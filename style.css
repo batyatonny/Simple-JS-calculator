@@ -1,8 +1,7 @@
 body {
 	font-family: Cursive;
-	background-color: #ffd;
+	background-color: #faf;
 }
-
 #container {
 	width: auto;
 	height: 590px;
@@ -11,7 +10,7 @@ body {
 #calculator {
 	width: 320px;
 	height: 560px;
-	background-color: #013;
+	background-color: #012;
 	margin: 0 auto;
 	top: 20px;
 	position: relative;

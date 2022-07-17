@@ -11,7 +11,7 @@ body {
 #calculator {
 	width: 320px;
 	height: 560px;
-	background-color: black;
+	background-color: #013;
 	margin: 0 auto;
 	top: 20px;
 	position: relative;
@@ -32,7 +32,7 @@ body {
 	margin: 0 20px;
 	padding-top: 20px;
 	font-size: 15px;
-	color: #919189;
+	color: red;
 }
 
 #output {
@@ -107,6 +107,6 @@ button:nth-child(16) {
 
 button:nth-child(19) {
 	font-size: 20px;
-	background-color: #fa77af;
+	background-color: #1ff;
 	width: 130px;
 }

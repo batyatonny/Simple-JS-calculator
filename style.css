@@ -1,6 +1,6 @@
 body{
 	font-family: Cursive;
-	background-color: #012;
+	background-color: #ffd;
 }
 #container{
 	width: auto;
@@ -41,7 +41,7 @@ border-radius: 5%;
 	height: 400px;
 }
 .operator{
-				background-color: #8afaff;
+				background-color: teal;
 }
 .operator, .number, .empty{
 	width: 50px;
@@ -54,8 +54,8 @@ border-radius: 5%;
 	font-size: 15px;
 }
 .number, .empty{
-	background-color: #000;
-	color: #fff;
+	background-color: #aff;
+	color: #000;
 }
 .number, .operator{
 	cursor: pointer;
